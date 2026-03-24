@@ -17,7 +17,9 @@
 *(Replace these placeholders with actual screenshots of your app!)*
 | Login Screen | Controller Screen |
 |:---:|:---:|
-| <img src="https://via.placeholder.com/250x500.png?text=Login+Screen" width="250"> | <img src="https://via.placeholder.com/500x250.png?text=Game+Screen" width="500"> |
+| <img src="https://via.placeholder.com/2![WhatsApp Image 2026-03-24 at 1 18 44 PM](https://github.com/user-attachments/assets/1e218454-0cf8-4846-b2a0-78ff0dc90c27)
+50x500.png?text=Login+Screen" width="250"> | <img src="https://via.placeholder![WhatsApp Image 2026-03-24 at 1 18 44 PM (1)](https://github.com/user-attachments/assets/9ec608f5-a942-4a73-a8bc-778c4721a1a1)
+.com/500x250.png?text=Game+Screen" width="500"> |
 
 ---
 
