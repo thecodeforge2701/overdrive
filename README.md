@@ -17,7 +17,7 @@
 *(Replace these placeholders with actual screenshots of your app!)*
 | Login Screen | Controller Screen |
 |:---:|:---:|
-| <img src="assets/login.jpeg" width="250"> | <img src="assets/game.jpeg" width="250"> |
+| <img src="assets/login.jpeg" width="500"> | <img src="assets/game.jpeg" width="500"> |
 
 ---
 
