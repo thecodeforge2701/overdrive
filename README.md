@@ -36,5 +36,5 @@ This project uses Buildozer to compile the Python code into an installable Andro
 
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/yourusername/overdrive-wheel.git](https://github.com/yourusername/overdrive-wheel.git)
-   cd overdrive-wheel
+   git clone [https://github.com/thecodeforge2701/overdrive.git](https://github.com/thecodeforge2701/overdrive.git)
+   cd overdrive
